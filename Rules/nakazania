@@ -1,0 +1,69 @@
+{B00000}1.{ffffff} Общая структура изгнания банды / мафии с войны за территорию.
+		
+Возможные причины изгнания банды из квадрата (достаточно одной из них):
+		
+	> Наличие двух наказанных 8 - 9 рангов за читы.
+	> Наличие семи наказанных 1 - 7 рангов за читы.
+	> Телепорт мясовозки в любые позиции квадрата.
+	> В случае, если одна из сторон использует читы, наносящие массовый вред (дамагер и т.п.), влияющие на исход войны.
+		
+Возможные причины изгнания мафии из квадрата (достаточно одной из них):
+		
+	> Наличие одного наказанного 7 - 9 ранга за читы.
+	> Наличие трёх наказанных 1 - 6 рангов за читы.
+	> Нарушение правил продлива.
+	> В случае, если одна из сторон использует читы, наносящие массовый вред (дамагер и т.п.), влияющие на исход войны.
+		
+{B00000}2.{ffffff} Багоюз / сбивы.
+		
+> Сбив анимации использования наркотиков с помощью cleo - Demorgan 60 минут.
+> Стрельба с помощью camhack / camhunt - warn 10 дней.
+> Сбив наручников багом - Demogran 120 минут / warn 10 дней.
+> Игра на GTA, в которой отсутствуют деревья, столбы или иные текстуры, дающие преимущество - warn 10 дней.
+> Использование antiaim'a - warn 10 дней.
+		
+{B00000}3.{ffffff} Запрещённый софт.
+		
+> Speed Hack - warn 21 days.
+> Fly, metla, air break - warn 21 days.
+> Gm car - warn 14 days.
+> Carshot - warn / iban, banip. (зависит от уровня)
+> Dgun - warn 21 days.
+> Carflood - iban.
+> Spcar - warn 21 days.
+> Cleo repair - warn 14 days.
+> Cleo parkour - warn 7 days.
+> Cleo nitro - warn 14 days.
+> Cleo hydraulics (гидравлика) - warn 7 days.
+> Cleo coup (переворот) - warn 7 days.
+> Cleo sbiv - demorgan 60 / 120 / 180 minutes.
+> Cleo тройка - demorgan 180 minutes, next warn 7 days.
+> Cleo b2-b6 - warn 21 days
+> Wallhack - warn 7 days.
+> Teleport - warn 21 days.
+> Aim assist (автонаводка) - warn 21 days.
+> No recoil / semi recoil (spread) / bpl / vbl - warn 21 days.
+> ExtraWS - warn 21 days.
+> Antistun - warn 21 days.
+> Aset - warn 21 days.
+> Aim / saim / pro-aim и прочие - warn 21 days.
+> Auto +С - warn 21 days.
+> Macros - warn 21 days.
+> Noreload / autoscroll - warn 21 days.
+> Antifall (антипадение с байка) - warn 14 days.
+> Fastgun - warn 21 days.
+> Laufcript - warn 21 days.
+> Fake kills - iban & banip.
+> Damager - iban & banip.
+> PH - iban & banip.
+		
+{B00000}4.{ffffff} Нарушение правил чата.
+		
+> Оскорбление - бан чата от 30 до 180 минут.
+> Flood - бан чата от 30 до 90 минут.
+> Capslock - бан чата от 30 до 30 минут.
+> Использование /me, /try, /do, /todo не по назначению - от бана чата на 30 минут до 60 минут.
+> Упоминание родных - бан чата на 500 минут.
+> Оскорбление родных - от бана чата на 500 минут до блокировки аккаунта.
+> Розжиг конфликтов на почке расовой принадлежности - бан чата от 120 до 180 минут.
+> Мат - бан чата от 15 до 60 минут.
